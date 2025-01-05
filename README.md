@@ -27,7 +27,7 @@
 <br>
 <hr>
 
-> **Update March 14th 2023** - Hello! This is a quick update to say that I'll be restoring this project soon. I'll pin an issue in a few days (or weeks) with my plans for restoring the project along with a roadmap and updated documentation
+> **Update Jan 5th 2025** - Hello! This is a quick update to say that I'll be restoring this project soon. I'll pin an issue in a few days (or weeks) with my plans for restoring the project along with a roadmap and updated documentation
 
 <hr>
 <br>
